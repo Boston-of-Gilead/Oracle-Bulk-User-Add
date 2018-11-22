@@ -1,0 +1,29 @@
+http://intra/operations/app_dfm/pg_appform.aspx?applicationid=576
+
+M = Mandatory field
+
+Login Request For = id control_1		M
+New User or Change Access = id control_2	M
+Offshore access = id control_3
+Location change = id control_4
+Date = id control_5				M
+Requested By (Manager's Name) = id control_6	M	
+First Name: = id control_7			M
+Middle Initial	= id control_8
+Last Name: = id control_9			M
+Windows NT or VPN ID = id control_10		M
+White Cap Location number = id control_11	M
+Loc./ Cost Center City = id control_12		M
+Temporary Account = id control_13		M
+Temporary Account End Date = id control_14
+
+Roles. Use the option number, 3 digits. = id control_15
+
+Remove Buyer Access = id control_18		
+Buyer Job Position = id control_19		
+What branches is the Buyer approved for? = id control_20
+Region = id control_21
+
+Notes = id txtNote
+Submit button = name btnSubmit
+Create New Instance = id lnkCreateNew
